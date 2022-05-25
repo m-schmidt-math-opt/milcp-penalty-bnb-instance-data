@@ -1,0 +1,2 @@
+Instance, n, Branching Rule, Node Selection, VI Type, VI Strategy, VI Par k, No. of VI, VI Choice, Warm Start, Sparsity, Integer Density, Range, Spectrum, Feasibility, Optimal Value, Number of Nodes, Node Percentage, Time, Comment
+0, 50, 3, 0, 2, 0, 10, 10, 0, 0, 0.982000, 0.457500, 99, 99, 0, inf, 1, 0.000000, 0.171193, Model couldn't be solved to optimality. (Solver Status: 13) 

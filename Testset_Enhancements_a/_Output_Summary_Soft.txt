@@ -1,0 +1,2 @@
+Instance, n, Branching Rule, Node Selection, VI Type, VI Strategy, VI Par k, No. of VI, VI Choice, Warm Start, Sparsity, Integer Density, Range, Spectrum, Feasibility, Optimal Value, Number of Nodes, Node Percentage, Time, Comment, Test, Post-Feas, Changed
+0, 50, 1, 1, 0, 0, 0, 0, 0, 1, 0.050000, 0.080000, 99, 99, 3, 0.075145, 5, 0.079365, 0.056780, , WS, 0.000000

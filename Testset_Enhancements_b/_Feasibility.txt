@@ -1,0 +1,1 @@
+Instance, n, Branching Rule, Node Selection, VI Type, VI Strategy, VI Par k, No. of VI, VI Choice, Warm Start, Sparsity, Integer Density, Range, Spectrum, Feasibility, Optimal Value, Number of Nodes, Node Percentage, Time, Comment, Test, Post-Feas, Gap
